@@ -1,5 +1,5 @@
 # Roob's Kitchen App
-This app was built with C++20, I built it because i was bored and can't progress further with my custom math query language [**mmqlc**](https:\\www.github.com\MTalha-Codes\mmqlc).
+This app was built with C++20, I built it because i was bored and can't progress further with my custom math query language [**mmqlc**](https://www.github.com/MTalha-Codes/mmqlc).
 </br>**Roob's Kitchen App** has the following features:
 ## Notable Features 
 - User Authentication System
