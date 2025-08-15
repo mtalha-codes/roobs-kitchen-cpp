@@ -1,7 +1,7 @@
 # Roob's Kitchen App [Archived]
 
 > [!NOTE]
-> This codebase is archived as of now **2025-08-15**, because a [**rust rewrite**](https://www.github,com/mtalha-codes/roobs-kitchen-rs) is in progress.
+> This codebase is archived as of now **2025-08-15**, because a [**rust rewrite**](https://www.github,com/mtalha-codes/roobs-kitchen-rs) of this C++ variant is in progress.
 
 This app was primarily built with C++20 to showcase app design to senior (btw, elder sister of my friend tbh) from UETM who is a data science graduate to showcase her app design. Basically she didn't knew how an app look like in the codebase because she was fully pursuing data science and unfortunately the final year project that was associated to her was to make an Cross Platform Mobile App Called **Roob's Kitchen App**.
 
